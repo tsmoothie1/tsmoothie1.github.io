@@ -1,0 +1,9 @@
+/* style.css */
+body {
+    font-family: Arial, sans-serif;
+}
+
+.centered-header {
+    text-align: center;
+    color: blue;
+}
